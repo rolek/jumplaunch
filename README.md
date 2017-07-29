@@ -1,5 +1,7 @@
 **Project Description**
 
+**NOTE: some files are not available. I am moving from Codeplex**
+
 Did you ever wonder where is the quick launch bar in Windows 7?
 JumpLaunch is a missing link between taskbar and user. It is a simple program that can display quick launch shortcuts in a jump list. Just "pin" it to the taskbar and it is ready to use.
 
@@ -11,18 +13,16 @@ JumpLaunch is a missing link between taskbar and user. It is a simple program th
 
 Download here:	[release:36218](release_36218)
 
-[[https://github.com/rolek/jumplaunch/blob/master/docs/Home_mainWindow.png|alt=Main window]]
-
 ![Main window](/docs/Home_mainWindow.png)
 Main window
 
 The screenshots below are not updated.
 **_Application does not require elevation_**. The screenshots will be updated soon (the shield should be gone).
 
-![Icon](Home_taskbar-icon.png)
+![Icon](/docs/Home_taskbar-icon.png)
 Taskbar icon
 
-![Jumplist](Home_jumplist.png)
+![Jumplist](/docs/Home_jumplist.png)
 Jumplist in action
 
 **WPF Clarification**
