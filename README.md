@@ -13,7 +13,7 @@ Download here:	[release:36218](release_36218)
 
 [[https://github.com/rolek/jumplaunch/blob/master/docs/Home_mainWindow.png|alt=Main window]]
 
-![Main window](docs/Home_mainWindow.png)
+![Main window](/docs/Home_mainWindow.png)
 Main window
 
 The screenshots below are not updated.
