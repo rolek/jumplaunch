@@ -1,5 +1,6 @@
 **Project Description**
-Did you ever wondered where is the quick launch bar in Windows 7?
+
+Did you ever wonder where is the quick launch bar in Windows 7?
 JumpLaunch is a missing link between taskbar and user. It is a simple program that can display quick launch shortcuts in a jump list. Just "pin" it to the taskbar and it is ready to use.
 
 **REQUIRES - Microsoft .NET Framework 3.5 Service Pack 1**
